@@ -1,2 +1,1 @@
-# my_first_repo
-Hi I am Yash.
+my name is sakaram 22SCSE1010008 i Am in code night 
